@@ -5,7 +5,7 @@ Bash scripts for installing and updating laravel projects
 Copy `install.sh` and `update.sh` to the root directory of your Laravel project
 
 ## Installing a fresh copy from a repo
-`. install.sh`
+`cd` to your project directory and `. install.sh`
 
 ## Updating an exixting project
-`. update.sh`
+`cd` to your project directory and `. update.sh`
