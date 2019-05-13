@@ -11,4 +11,4 @@ composer install
 php artisan key:generate
 
 # migrate the database
-php artisan migrate 
+php artisan migrate:fresh
